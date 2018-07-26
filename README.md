@@ -1,1 +1,1 @@
-# 2018_2-Python
+# 2018 Python Study
