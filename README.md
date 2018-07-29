@@ -1,3 +1,4 @@
 # 2018 Python Study
 
-Anaconda Install htps://www.anaconda.com/download/
+Anaconda Install https://www.anaconda.com/download/
+Tensorflow Install https://www.tensorflow.org/install/
