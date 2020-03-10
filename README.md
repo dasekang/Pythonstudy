@@ -1,4 +1,4 @@
-# 2018 Python Study
+# Python Study
 
 
 Window Visual Studio(Community) Download https://visualstudio.microsoft.com/ko/downloads/
