@@ -15,6 +15,7 @@ mataplotlib https://matplotlib.org/index.html
 ~~~
 1. jupyter_notebook_config.py 파일 생성
   >jupyter notebook --generate-config
+  
 2. #c.NotebookApp.browser 찾기
 
 4. #주석을 없애고 Chrome 경로를 넣고 %s 추가
